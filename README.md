@@ -3,5 +3,5 @@ Soace Invaders game in C++
 
 
 ## Requirements
-Must install SFML graphic library before compiling game
+Must install SFML graphic library and add attached files in project folder before compiling game
 
